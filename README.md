@@ -12,6 +12,10 @@ I have been working in Information Technology (IT) for the past 5 years; first a
 *   🤝  I'm open to collaborating on projects in the Fintech Space (especially payments technologies)
 *   ⚡  I love watching tennis and car racing (formula 1). I am always learning new things daily.
 
+<a href="https://www.twitter.com/vincentugwueze" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/vincentugwueze?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1e3a8a"
+/></a>
+
 ### Skills
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
