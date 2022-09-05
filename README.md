@@ -10,7 +10,8 @@ I have been working in Information Technology (IT) for the past 5 years; first a
 *   ✉️  You can contact me at [vincentugwueze@gmail.com](mailto:vincentugwueze@gmail.com)
 *   🧠  I'm learning Terraform, Docker, Kubernetes, Elastic Stack (ELK)
 *   🤝  I'm open to collaborating on projects in the Fintech Space (especially payments technologies)
-*   ⚡  I love watching tennis and car racing (formula 1). I am always learning new things daily.### Skills<p align="left">
+*   ⚡  I love watching tennis and car racing (formula 1). I am always learning new things daily.
+
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
