@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vincent
 ===============================================================================================================================
 
-DevOps Engineer | Software Engineer
------------------------------------
+DevOps Engineer
+---------------
 
-I have been working in Information Technology (IT) for the past 5 years; first as a software engineer, then as a product manager and finally delving into the cloud computing space where I have worked as a junior solutions architect. I am presently in the DevOps space learning how to use technologies such as Terraform, Docker and Kubernetes.
+I have been working in Information Technology (IT) for the past 3 years; first as a software engineer, then as a product manager and finally delving into the cloud computing space where I have worked as a cloud solutions architect. I am presently in the DevOps space leveraging technologies such as Terraform, Docker and Kubernetes to provide continuous delivery with high software quality for organizations.
 
 *   🌍  I'm based in London, England, United Kingdom
 *   ✉️  You can contact me at [vincentugwueze@gmail.com](mailto:vincentugwueze@gmail.com)
-*   🧠  I'm learning Terraform, Docker, Kubernetes, Elastic Stack (ELK)
+*   🧠  I'm learning Elastic Stack (ELK)
 *   🤝  I'm open to collaborating on projects in the Fintech Space (especially payments technologies)
 *   ⚡  I love watching tennis and car racing (formula 1). I am always learning new things daily.
 
