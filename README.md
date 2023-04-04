@@ -8,9 +8,9 @@ I have been working in Information Technology (IT) for the past 3 years; first a
 
 *   🌍  I'm based in London, England, United Kingdom
 *   ✉️  You can contact me at [vincentugwueze@gmail.com](mailto:vincentugwueze@gmail.com)
-*   🧠  I'm learning Elastic Stack (ELK)
-*   🤝  I'm open to collaborating on projects in the Fintech Space (especially payments technologies)
-*   ⚡  I love watching tennis and car racing (formula 1). I am always learning new things daily.
+*   🧠  I am always learning new things daily.
+*   🤝  I'm open to collaborating on projects that leverage technology to make life better for humans
+*   ⚡  I love football
 
 <a href="https://www.twitter.com/vincentugwueze" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/vincentugwueze?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1e3a8a"
