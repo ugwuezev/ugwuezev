@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps Engineer
 ---------------
 
-I have been working in Information Technology (IT) for the past 3 years; first as a software engineer, then as a product manager and finally delving into the cloud computing space where I have worked as a cloud solutions architect. I am presently in the DevOps space leveraging technologies such as Terraform, Docker and Kubernetes to provide continuous delivery with high software quality for organizations.
+I have been working in Information Technology (IT) for the past 4 years; first as a software engineer, then as a product manager and finally delving into the cloud computing space where I have worked as a cloud solutions architect. I am presently in the DevOps space leveraging technologies such as Terraform, Docker and Kubernetes to provide continuous delivery with high software quality for organizations.
 
 *   🌍  I'm based in London, England, United Kingdom
 *   ✉️  You can contact me at [vincentugwueze@gmail.com](mailto:vincentugwueze@gmail.com)
-*   🧠  I am always learning new things daily.
+*   🧠  I am always learning new things daily
 *   🤝  I'm open to collaborating on projects that leverage technology to make life better for humans
 *   ⚡  I love football
 
