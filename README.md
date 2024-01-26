@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vincent
 ===============================================================================================================================
 
-DevOps Engineer
----------------
+Cloud DevOps Engineer
+---------------------
 
-I have been working in Information Technology (IT) for the past 5 years; started as a Software Engineer and now works as a Cloud DevOps Engineer. I currently leverage technologies such as Terraform, Docker and Kubernetes to provide continuous delivery with high software quality for organizations.
+I have been in the Information Technology (IT) space for the past 5 years; started off as a Software Engineer and now works as a Cloud DevOps Engineer. Currently, I leverage technologies such as Terraform, Docker and Kubernetes to provide continuous delivery with high software quality for organizations.
 
 *   🌍  I'm based in London, England, United Kingdom
 *   ✉️  You can contact me at [vincentugwueze@gmail.com](mailto:vincentugwueze@gmail.com)
