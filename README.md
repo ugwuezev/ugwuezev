@@ -7,7 +7,7 @@ Cloud DevOps Engineer
 I have been in the Information Technology (IT) space for the past 5 years; started off as a Software Engineer and now works as a Cloud DevOps Engineer. Currently, I leverage technologies such as Terraform, Docker and Kubernetes to provide continuous delivery with high software quality for organizations.
 
 *   🌍  I'm based in London, England, United Kingdom
-*   ✉️  You can contact me at [vincentugwueze@gmail.com](mailto:vincentugwueze@gmail.com)
+*   ✉️  You can contact me at [ugwuezev@gmail.com](mailto:ugwuezev@gmail.com)
 *   🧠  I am always learning new things daily
 *   🤝  I'm open to collaborating on projects that leverage technology to make life better for humans
 *   ⚡  I love Football, Tennis, and Video Games
